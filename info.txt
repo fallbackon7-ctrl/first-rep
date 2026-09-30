@@ -1,1 +1,2 @@
-cd
+
+Hello I am Wycliff Nganga and this is a test commit for this repository
